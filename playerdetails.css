@@ -1,0 +1,52 @@
+body
+{
+    width:100%;
+   background-color:darkmagenta;  
+}
+.playerimage
+{
+    width:300px;
+    height:300px;
+    border-radius:6px;
+    margin-top:10%;
+    
+}
+.playerdetails
+{
+    display:flex;
+    
+}
+.playerimg
+{
+width:100%;
+height:100%
+}
+.mainpart
+{
+    width:900px;
+    height:600px;
+    border:2px solid black;
+    margin:0 auto;
+    margin-top:5%;
+}
+.details{
+width:400px;
+height:500px;
+}
+.namedet
+{
+    margin-top:25%;
+    font-size:30px;
+    margin-bottom:0px;
+}
+.val
+{
+    margin-top:40px;
+}
+h1
+{
+    color:lightpink;
+}
+span{
+    color:skyblue;
+}
